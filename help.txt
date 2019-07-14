@@ -1,0 +1,23 @@
+__OPTIONS__
+# username (default=Guest):
+SautedMango
+# text color (default=7):
+7
+# background color (default=):
+0
+# 
+________________
+__COMMANDS__
+roll......re rolls the generator, and outputs a new choice
+exit......closes the program
+viewLog...view all previous rolls in the log file
+clrLog....remove any previous rolls in the log file
+help......shows all available commands and other info
+__ABOUT__
+This program randomly chooses an item (Warframes, Primary Weapons, Melee Weapons, etc. . .) from the text files (editable) and combines them into a sentence which is sent to the terminal. 
+NOTE: to edit options open this file up (help.txt) and edit ONLY lines 3,5,7,9,etc up to the solid line; everything after that should be left alone.
+__CONTACT_INFORMATION__
+Written by....Sauted_Mango
+Discord.......SautedMango#4698
+Email.........sautedmango@gmail.com
+XMPP Server...Coming Soon

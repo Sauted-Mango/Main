@@ -1,0 +1,5 @@
+Sprint_Speed
+Duration
+Range
+Efficiency
+Ability_Strength
