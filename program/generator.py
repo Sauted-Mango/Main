@@ -50,7 +50,7 @@ def main_program():
             print(help_view)
         main_program()
     else:
-        print("unkown command, type 'help' for more information")
+        print("unknown command, type 'help' for more information")
         main_program()
 
 def exit_confirm():
@@ -69,7 +69,7 @@ def exit_confirm():
         print("returning. . .")
         main_program()
     else:
-        print("unkown input: " + user_input + "\nReturning. . .")
+        print("unknown input: " + user_input + "\nReturning. . .")
         main_program()
 
 main_program()
